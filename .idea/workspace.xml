@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="75ea1bfb-4327-40de-b1c2-d55da1724666" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2dmguBjdTn4CLnxb9YdgQkDNi4g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CssSelectorXpath.executor": "Run",
+    "Application.CustomArray1.executor": "Run",
+    "Application.FbLoginTest.executor": "Run",
+    "Application.IntegerArray1.executor": "Run",
+    "Application.RadioButton1.executor": "Run",
+    "Application.SelectListDropdown1.executor": "Run",
+    "Application.StringArray1.executor": "Run",
+    "Application.TextBox.executor": "Run",
+    "Application.com.selflearn.SeleniumCodes.RadioButton1.executor": "Run",
+    "Application.implicitWait1.executor": "Run",
+    "Application.localAndGolobalVariable.executor": "Run",
+    "Application.openBrowser.executor": "Run",
+    "Application.staticAndNonStatic.executor": "Run",
+    "Application.staticAndNonStaticMethod1.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/WorkSpace-ACE/JavaSeleniumProg-2024",
+    "onboarding.tips.debug.path": "D:/WorkSpace-ACE/javaProgramsANAY/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.implicitWait1">
+    <configuration name="RadioButton1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.SeleniumCodes.RadioButton1" />
+      <module name="JavaSelenium-Prog-practice-2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.SeleniumCodes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectListDropdown1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.SeleniumCodes.SelectListDropdown1" />
+      <module name="JavaSelenium-Prog-practice-2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.SeleniumCodes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.demoqawebsite.Elements.TextBox" />
+      <module name="JavaSelenium-Prog-practice-2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.demoqawebsite.Elements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.selflearn.SeleniumCodes.RadioButton1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.selflearn.SeleniumCodes.RadioButton1" />
+      <module name="JavaSelenium-Prog-practice-2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selflearn.SeleniumCodes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="implicitWait1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.selflearn.SeleniumCodes.implicitWait1" />
+      <module name="JavaSelenium-Prog-practice-2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selflearn.SeleniumCodes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.implicitWait1" />
+        <item itemvalue="Application.com.selflearn.SeleniumCodes.RadioButton1" />
+        <item itemvalue="Application.TextBox" />
+        <item itemvalue="Application.SelectListDropdown1" />
+        <item itemvalue="Application.RadioButton1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75ea1bfb-4327-40de-b1c2-d55da1724666" name="Changes" comment="" />
+      <created>1710618889748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710618889748</updated>
+    </task>
+    <servers />
+  </component>
+</project>
