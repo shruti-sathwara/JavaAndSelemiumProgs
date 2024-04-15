@@ -12,7 +12,7 @@ public class implicitWait1 {
     public static void main(String[] args) {
 
         System.setProperty("webdriver.chrome.driver", "D:\\Automation drivers and libs\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe");
-
+//
         WebDriver driver = new ChromeDriver();
         driver.manage().window().maximize();
         driver.get("https://www.facebook.com/login/");
